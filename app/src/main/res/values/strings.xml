@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BBCNewsReader</string>
+    <string name="about">About</string>
+    <string name="refresh">Refresh</string>
+    <string name="articleFavouriteButton">Favourite</string>
+    <string name="favourite">Favourites</string>
+    <string name="articleLink">articleLink\n</string>
+    <string name="articleDescription">article description\n</string>
+    <string name="articlePubDate">article publication date</string>
+    <string name="articleTitle">article title</string>
+    <string name="drawerAboutButton">About</string>
+    <string name="drawerFavouriteButton">Favourites</string>
+    <string name="appName">BBC News Reader</string>
+    <string name="appVersion">v1</string>
+    <string name="open">Open\n</string>
+    <string name="close">Close</string>
+
+    <string name="dialogTitle">Information about this app.</string>
+    <string name="dialogMessage">Select on news article to view extra details.
+        Can favourite news articles by selecting on an article and clicking the "Favourite" button.</string>
+    <string name="dialogConfirm">Ok, I understand</string>
+    <string name="refreshMenuButton">Exit app to refresh.</string>
+</resources>

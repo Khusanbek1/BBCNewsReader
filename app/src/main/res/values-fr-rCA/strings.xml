@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BBCNewsReader</string>
+    <string name="about">À propos</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="articleFavouriteButton">Préféré</string>
+    <string name="favourite">Favoris</string>
+    <string name="articleLink">lien de l\'article\n</string>
+    <string name="articleDescription">description d\'article\n</string>
+    <string name="articlePubDate">date de parution de l\'article</string>
+    <string name="articleTitle">le titre de l\'article</string>
+    <string name="drawerAboutButton">À propos</string>
+    <string name="drawerFavouriteButton">Favoris</string>
+    <string name="appName">BBC lecteur de nouvelles</string>
+    <string name="appVersion">v1</string>
+    <string name="open">ouvrir\n</string>
+    <string name="close">fermer</string>
+
+    <string name="dialogTitle">Informations sur cette application.</string>
+    <string name="dialogMessage">Sélectionnez un article de presse pour afficher des détails supplémentaires.
+        Vous pouvez ajouter des articles d\'actualité à vos favoris en sélectionnant un article
+        et en cliquant sur le bouton "Favoris".</string>
+    <string name="dialogConfirm">Oui je comprends</string>
+    <string name="refreshMenuButton">Quittez l\'application pour actualiser.</string>
+</resources>
